@@ -1,0 +1,4 @@
+172.16.197.110	control-plane, control-plane@k8s.lab.com
+172.16.197.120	worker-node1, worker-node1@k8s.lab.com
+172.16.197.130	worker-node2, worker-node2@k8s.lab.com
+172.16.197.140	worker-node3, worker-node3@k8s.lab.com
